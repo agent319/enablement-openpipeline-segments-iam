@@ -18,7 +18,7 @@ configs:
   config:
     name: "argo | platform | healthcheck"
     parameters:
-      baseUrl: "https://zany-space-disco-7v7j54g6v9v9c745-ARGOCD_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"
+      baseUrl: "https://zany-space-disco-7v7j54g6v9v9c745-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"
       frequencyMin: "1"
       enabled: "true"
       geoLocation: "GEOLOCATION-3F7C50D0C9065578"
